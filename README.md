@@ -44,3 +44,6 @@ This project follows the **PACE framework**:
 - Interpret feature importance  
 - Present actionable recommendations for HR
 
+  <img width="1150" height="687" alt="image" src="https://github.com/user-attachments/assets/27298a40-0873-4eb4-b422-ace79c1d710b" />
+
+
